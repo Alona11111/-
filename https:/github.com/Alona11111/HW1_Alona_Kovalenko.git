@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Myself</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+ <div class="container">
+
+  <div class="header"><h1>Alona Kovalenko</h1></div>
+
+<div class="info">
+<article><i>A student of Litera Course</i></article>
+<p></p>
+<details>
+  <summary>Phone number</summary>
+  <p>+380638852536</p>
+</details>
+
+<address>
+email address : <a href="mailto:alyona.kovalenko24@gmail.com">Alona Kovalenko</a><br> 
+</address>
+</div>
+
+<div class="hobbies"><article><i>My hobbies </i></article>
+<ul>
+  <li><a href="https://www.pinterest.com/sunnydays34/reading/" target="_blank">reading</a></li>
+  <li>driving </li>
+  <li><a href="https://www.pinterest.com/ideas/travel/908182459161/" target="_blank">travelling</a></li>
+  <li>doing sports</li>
+</ul>
+</div>
+
+<div class="interests"><article><i>My interests </i></article>
+  <ul>
+    <li>walking</li>
+    <li><a href="https://www.cookingclassy.com/" target="_blank">cooking</a></li>
+    <li>painting</li>
+    <li><a href="https://cafe-berg.pl/" target="_blank">visiting cafes</a></li>
+  </ul>
+  </div>
+
+    <div class ="conclusions"><article><i>About Myself</i></article>
+    <article>
+   <p id="bottom-p">I am from Ukraine, Kirovohrad region. Nowadays live in Poland, <rt>Łódź</rt>, but planning to change the place of living to Wroclaw, as I am fall in love with this city.<br>
+   I like learning new things.<br>
+  That's why I am here! </p> 
+  </article></div>
+<div class="footer">
+  <span class="text-left">2022 &copy</span>
+  <span class="text-right">Design by Alona</span>
+</div>
+</div>
+
+</body>
+</html>
